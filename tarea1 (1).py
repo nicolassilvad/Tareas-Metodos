@@ -10,3 +10,6 @@ for n in range (0,101):    #primera suma de 0 a 100
    s= s + (0.3**n)**m      #actualizar el valor de s
 
 print(f"resultado: {s}")
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.

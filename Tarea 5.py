@@ -12,3 +12,7 @@ for n in lista:
     print(f"2.-numero de operaciones: {matriz_adjunta}")
     print(f"3.- Para n grandes crecce de forma factorial con n*n!, total operaciones:{operaciones}")
 print("la expansion por cofactores en una matriz n*n se abre en determinantes de (n-1)-(n-1) que se siguen abriendo (n-1) veces haciendo que haga n! operaciones")
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen el cálculo del costo del determinante, la adjunta y la suma de ambas contribuciones.

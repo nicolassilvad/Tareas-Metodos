@@ -15,3 +15,6 @@ kappa_b=np.abs(b/(2*a*r_1+b))
 print("raiz 1:",r_1)
 print("raiz 2:",r_2)
 print("numeor de condicionamient:",kappa_b)
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.

@@ -26,3 +26,7 @@ prob_colores= prob(colores,muestra)
     
 print("Probabilidad de que las primeras 3 no sean roja:", prob_rojos)
 print("probabilidad de que salgan dos de cada color:",prob_colores)
+
+# Nota: 5.0
+# Base: 1/1; funcionamiento: 2/4; comentarios: 1/1; claridad: 1/1.
+# La simulación extrae bolas con reemplazo, pero el ejercicio exige extraer las seis bolas sin reemplazo.

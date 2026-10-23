@@ -20,3 +20,6 @@ cumulantes_gaussiana=[cumulantes(1,lamda),cumulantes(2,lamda),0,0]
 print("3.Basado en el punto anterior, compare con la distribución gaussiana:")
 for n in range (1,5):
     print(n,cumulantes(n,lamda),cumulantes_gaussiana[n-1])
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.

@@ -27,3 +27,6 @@ plt.show()
 
 #se puede lograr una precision de 10^{-7} con n muy grandes o h muy pequeños, el error  de n es aleatorio y de media 0 enotnces 
 #los errores en varios puntos se cancelan y por eso con h peuqeño  baja de 10^{-7}
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.

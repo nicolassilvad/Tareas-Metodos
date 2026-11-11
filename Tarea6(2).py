@@ -77,3 +77,7 @@ print("spline con 4 puntos")
 for xi in x:
     s = spline_eval(xi, coefs, puntos)
     print("x =", xi, "f(x) =", round(f(xi), 4), "spline =", round(s, 4)) #con los 4 puuntos queda una mejor aproximacion
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 0/1; claridad: 1/1.
+# Faltan comentarios que expliquen los pasos principales del cálculo.

@@ -25,3 +25,7 @@ ruido=1e-6
 error_de_ruido=ruido/h #formula de delta/h
 print(f"Eror del ruido:{error_de_ruido}")#el erro del ruido es mayor al de la formula, h fue muy  pequeño y  eso hace que
 #delta/h aumente por lo tanto es encesario hacer un paso mas grande
+
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
